@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.10
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AarBinding", "AarBinding\AarBinding.csproj", "{8BAC6E53-E761-4A0C-BEA5-09AB689AF7B8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BindingTest", "BindingTest\BindingTest.csproj", "{482F3DA2-D28E-4521-8AB4-1BFA566BA0B7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8BAC6E53-E761-4A0C-BEA5-09AB689AF7B8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8BAC6E53-E761-4A0C-BEA5-09AB689AF7B8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8BAC6E53-E761-4A0C-BEA5-09AB689AF7B8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8BAC6E53-E761-4A0C-BEA5-09AB689AF7B8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{482F3DA2-D28E-4521-8AB4-1BFA566BA0B7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{482F3DA2-D28E-4521-8AB4-1BFA566BA0B7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{482F3DA2-D28E-4521-8AB4-1BFA566BA0B7}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{482F3DA2-D28E-4521-8AB4-1BFA566BA0B7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{482F3DA2-D28E-4521-8AB4-1BFA566BA0B7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{482F3DA2-D28E-4521-8AB4-1BFA566BA0B7}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6924E42F-912B-4803-BDB8-90DA30949C6F}
+	EndGlobalSection
+EndGlobal
